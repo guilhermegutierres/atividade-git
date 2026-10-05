@@ -1,3 +1,3 @@
 # Atividade Git
 
-Atividade de versionamento em dupla.
+Alteração feita pelo Guilherme.
